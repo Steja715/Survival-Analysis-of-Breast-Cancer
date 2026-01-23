@@ -10,12 +10,8 @@
 
 ---
 
-### 📉 Model Diagnostics (Click to Expand)
-<details>
-<summary><b>Click here to see the Schoenfeld Residuals Test</b> (Validity Check)</summary>
+## 📉 Model Diagnostics
 
 ### Proportional Hazards Assumption
 ![Schoenfeld Individual Test](Schofieldtest_rplot.png)
 *Figure 3: Global Schoenfeld Test (p < 0.05) indicates the Proportional Hazards assumption may be violated for some variables.*
-
-</details>
