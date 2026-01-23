@@ -41,7 +41,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Statistical modelling
 | Tool | Purpose |
 | :--- | :--- |
 | **R Language** | Statistical Computation |
