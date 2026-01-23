@@ -37,7 +37,7 @@
 ### 📐 Technical Note
 > **Schoenfeld Residuals Test:**
 > * The global test ($p < 0.05$) indicates a violation of the **Proportional Hazards assumption**.
-> * **Correction Strategy:** In a real-world scenario, this would require stratifying the model by the violating variable or adding time-dependent coefficients to ensure statistical rigor.
+
 
 ---
 
