@@ -1,7 +1,7 @@
 # 🧬 Breast Cancer: A Multi-Variable Survival Analysis
 ![R](https://img.shields.io/badge/Language-R-blue) ![Biostatistics](https://img.shields.io/badge/Field-Biostatistics-green) ![Status](https://img.shields.io/badge/Project-Complete-success)
 
-## 📋 Executive Summary
+## 📋 Summary
 This project performs an in-depth survival analysis using the **Rotterdam Breast Cancer Dataset** to identify critical clinical and biological determinants of **Overall Survival (OS)**. By synthesizing non-parametric estimation, semi-parametric modeling, and rigorous diagnostic validation, this study quantifies how factors such as tumor morphology and adjuvant therapies influence long-term patient outcomes.
 
 ---
