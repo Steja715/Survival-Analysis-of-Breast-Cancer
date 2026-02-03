@@ -45,13 +45,5 @@ A Cox model is only as reliable as its underlying assumptions. We validated the 
 ---
 
 ## 💻 Tech Stack & Methodology
-* **Core Language:** R (v4.x)
+* **Core Language:** R 
 * **Statistical Libraries:** `survival` (Modeling), `survminer` (Visualization), `tidyverse` (Data Engineering)
-* **Metrics:** Hazard Ratios (HR), 95% Confidence Intervals (CI), Concordance Index ($0.69$), and AIC ($18548.67$).
-
----
-
-## 📂 Repository Structure
-* `analysis.R`: Finalized R script for data cleaning, modeling, and diagnostics.
-* `images/`: High-resolution exports used in this documentation.
-* `README.md`: Summary of scientific findings and technical methodology.
